@@ -30,7 +30,7 @@ Write the needed HTML code.Run the Django server and excute the HTML files.
 </html>
 ```
 ## Output:
-![Uploading Screenshot (1).png…]()
+![Screenshot (1)](https://github.com/Tanug25/places-around-me/assets/138849166/1f342af1-5dc0-4653-800c-5c7f5b779515)
 ![Screenshot (2)](https://github.com/Tanug25/places-around-me/assets/138849166/1fbac6af-9170-445e-bb65-bb4a2cb7d22d)
 ![Screenshot (3)](https://github.com/Tanug25/places-around-me/assets/138849166/f34989e9-f68d-449a-81fa-22c36b268b10)
 ![Screenshot (4)](https://github.com/Tanug25/places-around-me/assets/138849166/c6a68ed8-fa3d-4d34-8ffd-e0d207fa4f07)
